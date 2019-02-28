@@ -2,7 +2,7 @@
 
 A bit of fun generating pretty images of the mandelbrot set.
 
-* + & - to zoom in and out
+* \+ & - to zoom in and out
 * wasd to move around
 * e to change the method used to calculate the colour of each pixel. There are several available, higher quality & slower or faster & lower quality.
 * p to change the colour palette in use
